@@ -8,7 +8,7 @@
 
 ## MODELS AND NOTEBOOKS
 1. We decided to use three models catboost,lightbgm and xgboost and we took the arithmetic mean of their respective predicted values and used them as the final submission.
-  - [Notebook](https://www.kaggle.com/gaurangthakur/beyond-analysis-1)
+  - [Xgboost Notebook](https://www.kaggle.com/gaurangthakur/beyond-analysis-1)
 
 2. We decided to hypertune the model by using optuna hypertuning but it didn't gave the desired results.
 
