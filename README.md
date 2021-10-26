@@ -7,7 +7,7 @@
 4. We have used label encodings on the categorical feature columns.
 
 ## MODELS AND NOTEBOOKS
-1. We decided to use three models catboost,lightbgm and xgboost and we took the arithmetic mean of their respective predicted values and used them as the final submission
+1. We decided to use three models catboost,lightbgm and xgboost and we took the arithmetic mean of their respective predicted values and used them as the final submission.
   - [Notebook](https://www.kaggle.com/gaurangthakur)
 
 2. We decided to hypertune the model by using optuna hypertuning but it didn't gave the desired results.
